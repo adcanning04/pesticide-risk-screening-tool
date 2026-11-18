@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this tool, please cite the paper below."
+title: "Pesticide ecological risk screening tool"
+version: "1"
+date-released: 2026-11-18
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Canning
+    given-names: Adam D.
+  - family-names: Lewis
+    given-names: Steve
+  - family-names: Irvine
+    given-names: Dylan J.
+preferred-citation:
+  type: unpublished
+  title: "A globally applicable pesticide ecological risk screening tool with site-specific environmental context"
+  year: 2026
+  notes: "Manuscript in preparation"
+  authors:
+    - family-names: Canning
+      given-names: Adam D.
+    - family-names: Lewis
+      given-names: Steve
+    - family-names: Irvine
+      given-names: Dylan J.

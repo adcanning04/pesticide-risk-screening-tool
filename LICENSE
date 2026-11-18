@@ -1,0 +1,21 @@
+Pesticide ecological risk screening tool
+Copyright (c) 2026 Adam D. Canning, Steve Lewis and Dylan J. Irvine
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International Licence (CC BY-NC 4.0).
+
+You may copy, share and adapt this work for non-commercial purposes, provided you
+give appropriate credit, link to the licence and indicate if changes were made.
+Credit must include a citation of:
+
+  Canning, A. D., Lewis, S. and Irvine, D. J. (2026). A globally applicable pesticide ecological risk screening tool with site-specific environmental context.
+  Manuscript in preparation (see CITATION.cff for the current reference).
+
+Commercial use requires written permission from the authors.
+
+Summary:           https://creativecommons.org/licenses/by-nc/4.0/
+Full licence text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+This licence covers the code in this repository only. It does not cover third-party
+data used by the app (for example PPDB or APVMA data), which remain subject to their
+owners' terms.

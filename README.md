@@ -40,6 +40,12 @@ Never commit the key. Without it the app still runs, using default site values t
 
 PPDB, APVMA PubCRIS and product labels, ANZG default guideline values, HydroATLAS, CHIRPS, CSIRO SLGA, SoilGrids, OpenLandMap, MERIT Hydro and MERIT DEM, Landsat NDVI. Full references are listed in the app.
 
+## Licence and citation
+
+Code: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free to use, share and adapt for non-commercial purposes with credit. Commercial use needs written permission from the authors.
+
+If you use the tool, please cite: Canning, A. D., Lewis, S. and Irvine, D. J. (2026). A globally applicable pesticide ecological risk screening tool with site-specific environmental context. Manuscript in preparation.
+
 ## Use
 
 A screening tool for comparing compounds and practices at a site. It does not replace product labels or regulatory advice.
