@@ -42,7 +42,7 @@ PPDB, APVMA PubCRIS and product labels, ANZG default guideline values, HydroATLA
 
 ## Licence and citation
 
-Code: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free to use, share and adapt for non-commercial purposes with credit. Commercial use needs written permission from the authors.
+Code: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free to use, share and adapt with credit. Farmers, agronomists, advisers and consultants may use the tool and its results in their work, including paid advisory work. Selling the tool or its code, charging for access to it, or including it in a paid product or service needs written permission from the authors.
 
 If you use the tool, please cite: Canning, A. D., Lewis, S. and Irvine, D. J. (2026). A globally applicable pesticide ecological risk screening tool with site-specific environmental context. Manuscript in preparation.
 
