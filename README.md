@@ -2,6 +2,8 @@
 
 An R Shiny app that screens pesticide risk to waterways, pollinators and soil fauna at a chosen site, with human health information for context. Site soil, hydrology, rainfall and ground cover are fetched for any location; Australian users can narrow compounds by crop, pest and product label rate.
 
+**Live app:** <https://shoreview.shinyapps.io/pesticide-risk-screening-tool/>
+
 Version 1 (18 November 2026).
 
 Authors: A. D. Canning, S. Lewis and D. J. Irvine
